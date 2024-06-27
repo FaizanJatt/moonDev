@@ -1,5 +1,13 @@
 
-### Used TailwindCSS for styling, expo and react native navigation bottom tabs. Also Managed redux and created the custom hook for the async storage. All the required features were implemented.
+### Response: I have Used TailwindCSS for styling, expo and react native navigation bottom tabs. Also Managed redux and created the custom hook for the async storage. All the required features were implemented.
+
+How to run?
+
+1. git clone https://github.com/FaizanJatt/moonDev
+2. cd moonDev
+3. cd After/moonDevAssignment
+4. npm run start
+5. press I to run the app on iOS device or simulator or A to run the app on Android device/simulator.
 
 # Intern-React-Native-Assessment
 
