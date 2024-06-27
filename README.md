@@ -6,7 +6,7 @@ How to run?
 2. cd moonDev
 3. cd After/moonDevAssignment
 4. npm run start
-5. press I to run the app on iOS device or simulator or A to run the app on Android device/simulator.
+5. Type I to run the app on iOS device or simulator or A to run the app on Android device/simulator.
 
 ## Technologies utilized:
 Expo: Provides a framework for building cross-platform React Native apps.
