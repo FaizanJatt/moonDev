@@ -1,3 +1,6 @@
+
+### Used TailwindCSS for styling, expo and react native navigation bottom tabs. Also Managed redux and created the custom hook for the async storage. All the required features were implemented.
+
 # Intern-React-Native-Assessment
 
 # INSTRUCTIONS:
