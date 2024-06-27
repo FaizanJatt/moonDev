@@ -1,5 +1,4 @@
 
-### Response: I have Used TailwindCSS for styling, expo and react native navigation bottom tabs. Also Managed redux and created the custom hook for the async storage. All the required features were implemented.
 
 How to run?
 
@@ -9,6 +8,14 @@ How to run?
 4. npm run start
 5. press I to run the app on iOS device or simulator or A to run the app on Android device/simulator.
 
+## Technologies utilized:
+Expo: Provides a framework for building cross-platform React Native apps.
+React Navigation: Enables smooth navigation between screens in the app.
+Redux Toolkit: Simplifies state management by providing a set of tools to create reducers and actions.
+AsyncStorage: A simple, unencrypted, asynchronous, persistent key-value storage system that is global to the app.
+NativeWind: A library that brings Tailwind CSS's utility-first styling approach to React Native.
+
+## Managed redux and created the custom hook for the async storage. All the required features were implemented.
 # Intern-React-Native-Assessment
 
 # INSTRUCTIONS:
